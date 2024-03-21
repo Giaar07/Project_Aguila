@@ -1,17 +1,15 @@
-
 body{
     margin: 0;
     padding: 0;
     position: absolute;
-    top: 50%;
-    left: 50%;
+    top: 70%;
+    left: 40%;
     transform: translate(-50%,-50%);
-    
-}
-bg{
-    background-size: no-repeat ;
+    background-image: url(bg.png);
+    background-size: cover ;
+    background-repeat: no-repeat;
     background-attachment: fixed;
-    background-size: 100% 100%;
+    
 }
 #open{
     width: 500px;
