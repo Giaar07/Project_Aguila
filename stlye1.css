@@ -7,8 +7,7 @@ body{
     transform: translate(-50%,-50%);
     background-image: url(bg.png);
     background-size: cover ;
-    background-attachment: fixed;
-    
+  
 }
 #open{
     width: 500px;
